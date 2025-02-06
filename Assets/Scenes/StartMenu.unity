@@ -197,7 +197,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -5821149022634846403, guid: 31c4bbd78f75ca94ba121b3b0824b047, type: 3}
+  m_Sprite: {fileID: 971312842080132174, guid: 5b298dc8505141f4686d3a1447e8bc7b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -218,7 +218,7 @@ Animator:
   m_GameObject: {fileID: 400572178}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 3611790726743878315, guid: 31c4bbd78f75ca94ba121b3b0824b047, type: 3}
+  m_Controller: {fileID: -5637397397103447197, guid: 5b298dc8505141f4686d3a1447e8bc7b, type: 3}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -334,7 +334,7 @@ GameObject:
   - component: {fileID: 543693857}
   - component: {fileID: 543693856}
   m_Layer: 5
-  m_Name: Start
+  m_Name: StartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -403,7 +403,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 543693857}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 945309754}
+        m_TargetAssemblyTypeName: SceneSwitcher, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: Game
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &543693857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1674,6 +1686,7 @@ GameObject:
   - component: {fileID: 945309752}
   - component: {fileID: 945309751}
   - component: {fileID: 945309750}
+  - component: {fileID: 945309754}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1766,6 +1779,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &945309754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 945309749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 123feb50a257fd14c979d3621e006c13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1455391281
 GameObject:
   m_ObjectHideFlags: 0
