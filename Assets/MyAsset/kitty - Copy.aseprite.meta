@@ -21,13 +21,11 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
-    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 0
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMipmapLimit: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -804,278 +802,312 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -286445881
+    guid: -1179944285
     name: kitty - Copy
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: kitty - Copy_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: ea4c832e449a85b428a28305116fb24f
-    - name: kitty - Copy_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: aaf743de86df40f44841a27f412f7c30
-    - name: kitty - Copy_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: d21b263fc14235d42a80c0fc562d3503
-    - name: kitty - Copy_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 44aacb78bc97d7447838ee4ed0388aba
-    - name: kitty - Copy_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 31a88b2f06385594eb9f0726d4eb026c
-    - name: kitty - Copy_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 9e16dc7cbcc75fc4695076c27497c3bf
-    - name: kitty - Copy_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 16f0505763330e7428c084c01f175cd5
-    - name: kitty - Copy_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: 78842fc1f619ae94ab6dfc2ff4ab065d
-    - name: kitty - Copy_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 495dd6349398c51468f43292283d197a
-    - name: kitty - Copy_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: cc44e2ff0ce801e42bbe2e0410d4de11
-    - name: kitty - Copy_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 0ba22f8fac7363a44823b08060a8f05d
-    - name: kitty - Copy_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: cb62fbb0273c57e4f85717fb8946749d
-    - name: kitty - Copy_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 6ca664c1412597648a530b1d793ee270
-    - name: kitty - Copy_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 8c07157b6bc9d5d488b9969846bd6667
-    - name: kitty - Copy_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 7a4dd148d03abef4b9f7cac2f124da8a
-    - name: kitty - Copy_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: e597271bcfa5b8c4ba4d4f0cd4cc04c6
-    - name: kitty - Copy_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: a73275ca6ad99db488e68f3ae16612c7
-    - name: kitty - Copy_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: 2b69daa77fe00094584ccda3c0070878
-    - name: kitty - Copy_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: 0ad9ae84dde1fb9488535d31ca4228b0
-    - name: kitty - Copy_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 7676160c9aea6804c958054a576d85c5
-    - name: kitty - Copy_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 05db4e08dcd22b145943865b1b485046
-    - name: kitty - Copy_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 2512e0b1319001748ae907ce2f0c7b4d
-    - name: kitty - Copy_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 20a855f4580b55746a114e86db8ed809
-    - name: kitty - Copy_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: d0ed053f9e2247949bd163a938bc1eb7
-    - name: kitty - Copy_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 323e7ccec96453a40a4258ec28c54674
-    - name: kitty - Copy_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: c20f981b09ef60443b87212acca5a2d8
-    - name: kitty - Copy_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: f738072ac56ed6f4baa8c0b2e0c5a230
-    - name: kitty - Copy_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: e22207434e47d504092a2e5116229064
-    - name: kitty - Copy_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: e1688e5423c1f1d498fa478deefa1ceb
-    - name: kitty - Copy_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 18
       spriteId: 47c9c48d53348f64cb0fcb6a78dbcbba
-    - name: kitty - Copy_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: 73cc02ecc1ff55045b0cd6554eaef1cb
-    - name: kitty - Copy_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 16
       spriteId: b006550b23c01e04aa64b77066c537b0
-    - name: kitty - Copy_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0
         width: 20
         height: 17
       spriteId: 3976e1937eb9dc048847fbe11bd2c56c
-    - name: kitty - Copy_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 6
         y: 0

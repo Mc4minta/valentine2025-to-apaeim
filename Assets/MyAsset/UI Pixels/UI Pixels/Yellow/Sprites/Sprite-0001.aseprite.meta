@@ -21,13 +21,11 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
-    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 0
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMipmapLimit: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -144,7 +142,7 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -572921211
+    guid: -66354471
     name: Sprite-0001
     layerFlags: 0
     layerType: 0
@@ -152,6 +150,7 @@ ScriptedImporter:
     cells:
     - name: Sprite-0001
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0

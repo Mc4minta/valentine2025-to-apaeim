@@ -21,13 +21,11 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
-    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 0
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMipmapLimit: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -484,150 +482,168 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1373859911
+    guid: 158817757
     name: hearts
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: hearts_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: 4348bc6e6f9c0de45970165f41ab6f5d
-    - name: hearts_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: c2c4a4b9d99db784f871f15b1d3f0d3e
-    - name: hearts_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: 52ea002229104804db9d3d6384a4e288
-    - name: hearts_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: 9d77e6c40a7f50e4ab201afa6459f8ce
-    - name: hearts_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 18
         width: 48
         height: 73
       spriteId: 02dc16ee699c8e74ca5dfed0df5d49f7
-    - name: hearts_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 17
         width: 48
         height: 74
       spriteId: b78d4e1692fe0434ca3800b7fb9dbc4c
-    - name: hearts_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 17
         width: 48
         height: 74
       spriteId: cf3cadc1a414e4347a07d0b32771e78c
-    - name: hearts_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 16
         width: 48
         height: 75
       spriteId: e59ca792987cff3428fec6915f319372
-    - name: hearts_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 16
         width: 48
         height: 75
       spriteId: 80ab705896dba434db2323cdece2563b
-    - name: hearts_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: 06d716140f7ed724481fb4f4e8c0bd4f
-    - name: hearts_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 2
         y: 19
         width: 49
         height: 73
       spriteId: cee0bb12aba58214d98ba67988439e68
-    - name: hearts_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 19
         width: 50
         height: 74
       spriteId: e34429698dc35be49a48af8938d8f1e2
-    - name: hearts_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 19
         width: 51
         height: 74
       spriteId: f979a48e996a68b4d8e00e5e5514f96c
-    - name: hearts_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 19
         width: 51
         height: 75
       spriteId: 78189c7576f5eb84b8af014635a8ce66
-    - name: hearts_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: 781cfe8a299ab704f9d8a09ffc05165b
-    - name: hearts_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: b659c3bfee703154fb91564a85b1bddf
-    - name: hearts_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19
         width: 48
         height: 72
       spriteId: cf5b96f8367ba734d8b4db2a662f712c
-    - name: hearts_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 3
         y: 19

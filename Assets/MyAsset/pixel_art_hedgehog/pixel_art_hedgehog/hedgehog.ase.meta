@@ -21,13 +21,11 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-    flipGreenChannel: 0
-    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 0
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMipmapLimit: 0
+    ignoreMasterTextureLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -464,142 +462,159 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -830463121
+    guid: 863392747
     name: hedgehog
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: hedgehog_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: 2872e02de1f56ea4d8eb121806472101
-    - name: hedgehog_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: a383329e1b188e64eb5c18373237d26f
-    - name: hedgehog_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: fecd68052f680324bbc526d0c26b0ca7
-    - name: hedgehog_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: 94ab64c1e3fde334d865f7cbbf5a4632
-    - name: hedgehog_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: 45f21ef3d0b7b604ca1244d3ba0288df
-    - name: hedgehog_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: af79e0d08f3c6e1459efa65653bc68ea
-    - name: hedgehog_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: bbd671bae5ab407438f9353aa8de274f
-    - name: hedgehog_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: d9d6b058a5a1da948b65d8b7513512f5
-    - name: hedgehog_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 12
       spriteId: e80d502c72438b64497763b2757a118f
-    - name: hedgehog_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 13
       spriteId: f5ddbebcfbf14cb4fa283f6eb1c1d8cb
-    - name: hedgehog_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 17
       spriteId: cf16df4f2573fd241b9e80755e25d251
-    - name: hedgehog_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 20
       spriteId: a17bdd61ac358c34785318eee6f82804
-    - name: hedgehog_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 14
       spriteId: 181fc3f504721e9498dd4fceb49da4a6
-    - name: hedgehog_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 13
       spriteId: a1075caea806c4e44bb12c08452376e0
-    - name: hedgehog_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 13
       spriteId: 3bc15e27af922b341a896e2523ea2a0f
-    - name: hedgehog_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
         width: 22
         height: 12
       spriteId: 9fbac4a53e40a0349a00309204aa21d1
-    - name: hedgehog_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 1
         y: 0
