@@ -3,6 +3,6 @@
     <img src="Resources/StartScreen.png" alt="StartScreen">
 </p>
 
-You can play it on window or through web (Not supported for mobiles right now)
-Web: https://mc4minta.github.io/valentine2025-to-apaeim
+<h2 align="center">You can play it on window or through web (Not supported for mobiles right now)</h2>
+<h3 align="center">Web: https://mc4minta.github.io/valentine2025-to-apaeim</h3>
 Window: Download from release
