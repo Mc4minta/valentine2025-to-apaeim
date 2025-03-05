@@ -2,5 +2,3 @@
 <p align="center">
     <img src="Resources/StartScreen.png" alt="StartScreen">
 </p>
-
-![StartScreen](Resources/StartScreen.png)
