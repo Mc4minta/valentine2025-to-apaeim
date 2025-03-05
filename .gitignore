@@ -5,8 +5,9 @@
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-# /[Bb]uild/
+/[Bb]uild/
 /[Bb]uilds/
+/Build_WebGL/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
@@ -70,3 +71,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# my own
+/Assets/MyAsset/pic/451755_0.jpg
+/Assets/MyAsset/pic/451756_0.jpg
